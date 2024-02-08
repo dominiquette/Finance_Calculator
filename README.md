@@ -16,8 +16,3 @@ A Python program that provides users with access to two different financial calc
 ## Requirements
 
 - Python 3.x
-
-## Usage Example
-
-```bash
-python finance_calculators.py
